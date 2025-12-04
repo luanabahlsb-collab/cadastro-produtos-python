@@ -1,5 +1,5 @@
 ## Portfólio Python – Sistema de Cadastro de Produtos
-Este repositório reúne três mini-projetos desenvolvidos em Python como parte da minha jornada de estudos em Engenharia de Software.
+Este repertório reúne três mini-projetos desenvolvidos em Python como parte da minha jornada de estudos em Engenharia de Software.
 O objetivo é demonstrar conhecimentos de lógica de programação, estruturas de dados e funcionamento de sistemas simples.
 
 ## 1- cadastro_produto.py
