@@ -30,4 +30,4 @@ Demonstrar prática em lógica de programação, estruturas de dados (listas, di
 e clareza no código, além de melhorar validações e tratamento de erros.
 Obrigada por visitar meu portfólio! 
 
-💙 Obrigada por visitar meu repositório!
+💙 Obrigada por visitar meu portólio!
